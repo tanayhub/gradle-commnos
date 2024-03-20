@@ -10,4 +10,5 @@ dependencyResolutionManagement {
     }
 }
 
+include("datastore")
 include("templates")
